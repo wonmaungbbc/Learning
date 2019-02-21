@@ -1,0 +1,24 @@
+// Old URLs
+http://www.test.bbc.co.uk/guides/z43mvk7
+http://www.test.bbc.co.uk/guides/zht7xfr
+http://www.test.bbc.co.uk/guides/zmnmmsg
+http://www.test.bbc.co.uk/guides/zmxrjhv
+http://www.test.bbc.co.uk/guides/zv37nrd
+http://www.test.bbc.co.uk/guides/zvpkmfr
+http://www.test.bbc.co.uk/guides/z92m2nb
+http://www.test.bbc.co.uk/guides/zc344qt
+http://www.test.bbc.co.uk/guides/z37xrwx
+http://www.test.bbc.co.uk/guides/zhn9wty 
+http://www.test.bbc.co.uk/guides/zw4g2nb
+http://www.test.bbc.co.uk/guides/zbqyy4j 
+http://www.test.bbc.co.uk/guides/z8kfnbk
+http://www.test.bbc.co.uk/guides/z2gkk2p
+http://www.test.bbc.co.uk/guides/zqfdpbk
+http://www.test.bbc.co.uk/guides/zqrq7ty
+http://www.test.bbc.co.uk/guides/z8ngr82
+http://www.test.bbc.co.uk/guides/zs87dxs
+http://www.test.bbc.co.uk/guides/zy38wmn
+http://www.test.bbc.co.uk/guides/z9xwng8
+http://www.test.bbc.co.uk/guides/z97ktv4
+http://www.test.bbc.co.uk/guides/z9jn97h
+http://www.test.bbc.co.uk/guides/z97qsrd

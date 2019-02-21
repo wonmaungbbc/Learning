@@ -1,0 +1,17 @@
+table {
+  border: 2px solid black;
+}
+
+td {
+  border: 2px solid peru;
+  padding: 5px;
+}
+
+th {
+  background-color: yellow;
+  border: 2px solid blue;
+}
+
+.tables-container{
+    background-color: rgb(6, 126, 238);
+}
